@@ -1,4 +1,4 @@
-# example/refraction.py
+# ip_fablab/refraction.py
 
 import numpy as np
 
