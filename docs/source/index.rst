@@ -9,7 +9,10 @@ IP FabLab Documentation
 .. toctree::
    :maxdepth: 2
 
+   introduction
+   formulation
    installation
    usage
+   examples
    release-history
    min_versions
