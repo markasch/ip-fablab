@@ -10,6 +10,7 @@ It attempts to fill the gap between theory and practise, by providing all the to
 for contructing simulators for both direct and inverse problems:
 
 - choice of physical problem type (acoustic, elastic, electromagnetic)
+- choice of regime (deterministic or stochastic)
 - choice of realistic boundary conditions (Dirichlet, Neumann, Mixed, PML)
 - choice of probing pulse (form, location, frequency)
 - choice of measurement/observation points (number, locations)
@@ -21,10 +22,11 @@ of this documentation.
 Implementation
 --------------
 
-All code is in Python, with the option of full Pytorch functionality to enable efficient computation 
+All code is in Python, with the employ of full Pytorch functionality to enable efficient computation 
 on GPUs.
 
 References
 ----------
 
-[`Asch2022 <https://my.siam.org/Store/Product/viewproduct/?ProductId=41813926>`_] M. Asch. *A Toolbox for Digital Twins: from Model-Based to Data-Driven.* SIAM. 2022 
+[`Asch2022 <https://my.siam.org/Store/Product/viewproduct/?ProductId=41813926>`_] M. Asch. 
+*A Toolbox for Digital Twins: from Model-Based to Data-Driven.* SIAM. 2022 

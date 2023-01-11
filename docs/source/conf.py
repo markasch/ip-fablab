@@ -185,7 +185,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (master_doc, 'ip-fablab', 'IP FabLab Documentation',
-     author, 'ip-fablab', 'Fablab for solving inverse problems fofor wave equations',
+     author, 'ip-fablab', 'Fablab for solving inverse problems for wave equations',
      'Miscellaneous'),
 ]
 
